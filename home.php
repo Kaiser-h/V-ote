@@ -101,7 +101,7 @@
 											$image = (!empty($crow['photo'])) ? 'images/'.$crow['photo'] : 'images/profile.jpg';
 											$candidate .= '
 												<li class="dis_flex_row">
-													'.$input.'<div class="dis_flex_col"><img src="'.$image.'" height="100px" width="100px" class="clist"/><span class="cname clist" style="font-size:;">'.$crow['firstname'].' '.$crow['lastname'].'</span></div>
+													<div class="dis_flex_col">'.$input.'<img src="'.$image.'" height="150px" width="150px" class="clist"/><span class="cname clist" style="font-size:;">'.$crow['firstname'].' '.$crow['lastname'].'</span></div>
 												</li>
 											';
 										}
