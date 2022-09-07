@@ -22,7 +22,7 @@
 
     	<form action="login.php" method="POST">
       		<div class="form-group has-feedback" style='padding-bottom:2rem;'>
-        		<input type="text" class="form-control" name="voter" placeholder="Last Name" style='height:5rem;outline:2px solid; font-size:18px;' required>
+        		<input type="text" class="form-control" name="voter" placeholder="Student's ID" style='height:5rem;outline:2px solid; font-size:18px;' required>
         		<span class="glyphicon glyphicon-user form-control-feedback" style='padding-top:1rem;'></span>
       		</div>
           <div class="form-group has-feedback">
