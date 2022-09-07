@@ -40,6 +40,7 @@
 </div>
 
 <div class="results_content" id='results'>
+    <h1>2022 ASSAG ELECTION RESULTS</h1>
           <div class=''>
             <table>
                 <tr>
@@ -157,7 +158,8 @@
         display:flex;
         justify-content:center;
         flex-direction:column;
-        width:40%;
+        width:80%;
+        padding-bottom: 20px;
     }
 
     .not{
@@ -229,7 +231,7 @@
                 margin: 1,
                 filename: '2022 ASSAG ELECTION RESULTS.pdf',
                 image: { type: 'jpeg', quality: 0.98 },
-                html2canvas: { scale: 15 },
+                html2canvas: { scale: 2 },
                 jsPDF: { unit: 'in', format: 'letter', orientation: 'portrait' }
             };
             html2pdf().from(results).set(opt).save();
