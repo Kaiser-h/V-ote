@@ -53,7 +53,9 @@
 
 <style>
 	.cimage{
+	display:'block';
 	border-radius: 50%;
+	
 }
 </style>
 </body>
