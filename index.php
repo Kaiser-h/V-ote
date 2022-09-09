@@ -10,12 +10,12 @@
 ?>
 <?php include 'includes/header.php'; ?>
 <body class="hold-transition login-page" style="background-color:#e4eaec"> 
-<div class="login-box" style="background-color:white;border:2px solid;border-radius:10px;color:white ; font-size: 22px; font-family:Times;height:40rem;text-align:center;box-shadow: 2px 2px 18px -5px rgba(0,0,0,0.75);
+<div class="login-box" style="background-color:white;border:2px solid;border-radius:10px;color:white ; font-size: 22px; font-family:Times;text-align:center;box-shadow: 2px 2px 18px -5px rgba(0,0,0,0.75);
 -webkit-box-shadow: 2px 2px 18px -5px rgba(0,0,0,0.75);
 -moz-box-shadow: 2px 2px 18px -5px rgba(0,0,0,0.75);">
   	<div class="login-logo" style="color:black;font-size: 25px; font-family:Times;padding-top:2rem;">
+		<img src="./images/bbox.jpg" height="100px" width="100px" class="cimage"/>
   		<b>ASSAG ELECTION 2022</b>
-		  <img src="./images/bbox.jpg" height="150px" width="150px" class="cimage"/>
   	</div>
   
   	<div class="login-box-body" style="font-size: 22px; font-family:Times" >
