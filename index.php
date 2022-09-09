@@ -15,6 +15,7 @@
 -moz-box-shadow: 2px 2px 18px -5px rgba(0,0,0,0.75);">
   	<div class="login-logo" style="color:black;font-size: 25px; font-family:Times;padding-top:2rem;">
   		<b>ASSAG ELECTION 2022</b>
+		  <img src="./images/bbox.jpg" height="150px" width="150px" class="cimage"/>
   	</div>
   
   	<div class="login-box-body" style="font-size: 22px; font-family:Times" >
@@ -49,5 +50,11 @@
 </div>
 	
 <?php include 'includes/scripts.php' ?>
+
+<style>
+	.cimage{
+	border-radius: 50%;
+}
+</style>
 </body>
 </html>
