@@ -53,9 +53,11 @@
 
 <style>
 	.cimage{
-	display:block;
-	border-radius: 50%;
-	
+	display: block;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 20px;
 }
 </style>
 </body>
