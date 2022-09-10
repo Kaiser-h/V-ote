@@ -14,7 +14,9 @@
 -webkit-box-shadow: 2px 2px 18px -5px rgba(0,0,0,0.75);
 -moz-box-shadow: 2px 2px 18px -5px rgba(0,0,0,0.75);">
   	<div class="login-logo" style="color:black;font-size: 25px; font-family:Times;padding-top:2rem;">
+		<div>
 		<img src="./images/bbox.jpg" height="100px" width="100px" class="cimage"/>
+</div>
   		<b>ASSAG ELECTION 2022</b>
   	</div>
   
