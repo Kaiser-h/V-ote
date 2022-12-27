@@ -37,4 +37,4 @@ V-ote is licensed under the MIT License. See [LICENSE](LICENSE) for more informa
 
 ## Contact
 
-You can contact me at [my email address](mailto:me@example.com) or visit my [website](https://example.com).
+You can contact me at [my email address](mailto:agbikaiser@gmail.com) or visit my [website](https://example.com).
